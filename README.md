@@ -73,14 +73,14 @@ o modelo onde a probabilidade de venda era real.
 
 ## Estrutura do Repositório
 
+```
 hackathon-forecast-vendas-2025/
-├── Hackathon_Forecast_Big_Data_2025.ipynb  # Notebook completo da solução
-├── hackathon_forecast_big_data_2025.py     # Script para execução local
-├── submissao.parquet                       # Arquivo de submissão gerado
-├── requirements.txt                        # Dependências do projeto
+├── Hackathon_Forecast_Big_Data_2025.ipynb   # Notebook completo da solução
+├── hackathon_forecast_big_data_2025.py      # Script para execução local
+├── submissao.parquet                        # Arquivo de submissão gerado
+├── requirements.txt                         # Dependências do projeto
 └── README.md
-
----
+```
 
 ## Como Reproduzir
 
